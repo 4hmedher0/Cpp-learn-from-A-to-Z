@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527091201 source:c:\users\theif\desktop\lec 16\main.cpp
+	<iostream>
+	<conio.h>
+
